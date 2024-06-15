@@ -1,0 +1,3 @@
+﻿  예제7-10.cpp
+C:\Users\김정원\source\repos\chap7\예제7-10\예제7-10.cpp(24): warning C4172: 지역 변수 또는 임시: tmp의 주소를 반환하고 있습니다.
+  예제7-10.vcxproj -> C:\Users\김정원\source\repos\chap7\Debug\예제7-10.exe
